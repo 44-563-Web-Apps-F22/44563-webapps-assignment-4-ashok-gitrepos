@@ -38,5 +38,36 @@
 .LadyS{
     color: springgreen;
 }
+.MrW{
+    color: teal;
+}
+.name:hover{
+    background-color: antiquewhite;
+    color: red;
+}
+table{
+    border: 1px;
+    padding: 10px;
+    margin: 45px 45px;
+    width: 50%;
+}
+
+th{
+    color:black;
+    border: 5px mixed black;
+    text-align: center;
+    background-color: greenyellow
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+td{
+    color: black;
+    border: 1px mixed black;
+    text-align: left;
+  }
+
+
+  
 
 
