@@ -1,0 +1,42 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: black;
+}
+.directions{
+    background-color: cyan;
+    color: black;
+
+}
+.name{
+    font-style: 'serif';
+    font-size: 15px;
+    color:black
+}
+.directions:hover{
+    background-color: green;
+    color: red;
+}
+.Aline{
+    color: aquamarine;
+}
+.Alexis{
+    color: aqua;
+}
+.SirM{
+    color: cadetblue;
+}
+.MrsP{
+    color: cornflowerblue;
+}
+.DrD{
+    color: turquoise;
+}
+.MrWells{
+    color: tomato;
+}
+.LadyS{
+    color: springgreen;
+}
+
+
