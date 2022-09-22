@@ -66,6 +66,30 @@ td{
     border: 1px mixed black;
     text-align: left;
   }
+ 
+ 
+
+  
+
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.navbar-horizontal li {
+    float: left;
+    color: #000;
+    background-color: red;
+    border: 2px solid black;
+    width: 150px;
+  }
+  
+  ul.navbar-horizontal a {
+    padding: 10px;
+  }
+
+ 
+ 
 
 
   
