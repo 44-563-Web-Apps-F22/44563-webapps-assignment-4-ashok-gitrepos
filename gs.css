@@ -87,6 +87,12 @@ td{
   ul.navbar-horizontal a {
     padding: 10px;
   }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
  
  
